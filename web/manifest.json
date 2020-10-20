@@ -1,0 +1,41 @@
+{
+  "icons": [
+    {
+      "src": "/compiled/icon_512x512.4413e74392907fa25e938192aba387e7.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/compiled/icon_384x384.cf5b52b9f602f9bf1d671f070739983d.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/compiled/icon_256x256.0219a525e88e67cf3a1da021ee97a902.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/compiled/icon_192x192.858df7a751b8642747c53bb8b2e6e0d4.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/compiled/icon_128x128.0dc4c1c33f541ca0ee534ebc128b9425.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/compiled/icon_96x96.8fe4c52400f81a5627a8162f46a37a99.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Paysera Tickets",
+  "short_name": "Paysera Tickets",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/",
+  "background_color": "#f2f2f2",
+  "theme_color": "#FF7626"
+}
